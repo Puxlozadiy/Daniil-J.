@@ -1,0 +1,60 @@
+#about-background{
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+#image1{
+    background-image: url('assets/image1.jpg');
+    width: 20%;
+    height: 50vh;
+    background-size: cover;
+    position: absolute;
+    top: 30%;
+    left: 0vh;
+    opacity: 0;
+}
+
+#image2{
+    background-image: url('assets/image2.jpg');
+    width: 20%;
+    height: 50vh;
+    background-size: cover;
+    position: absolute;
+    left: 27vw;
+    top: 10vh;
+    opacity: 0;
+}
+
+#image3{
+    background-image: url('assets/image3.jpg');
+    width: 30vw;
+    height: 35vh;
+    background-size: cover;
+    position: absolute;
+    top: 2vh;
+    left: 50vw;
+    opacity: 0;
+}
+
+#image4{
+    background-image: url('assets/image4.jpg');
+    width: 20vw;
+    height: 50vh;
+    background-size: cover;
+    position: absolute;
+    left: 75vw;
+    top: 40vh;
+}
+
+#about-me{
+    position: absolute;
+    top: 45vh;
+    left: 30vw;
+    width: 40vw;
+    font-size: 2vw;
+    font-family: Century;
+    opacity: 0;
+}
